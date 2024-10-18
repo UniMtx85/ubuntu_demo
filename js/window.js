@@ -171,7 +171,7 @@ function createRandomWindowID(){
 }
 
 // /?[<name>,<icon>,<location>]
-// for example; ?[%22Ubuntu-Tour%22,%22https://malisipi.github.io/ubuntu-tour/%22,%22https://malisipi.github.io/ubuntu-tour/icons/Suru/Suru/scalable/places/start-here-symbolic.svg%22]
+// for example; ?[%22Ubuntu-Tour%22,%22https://UniMtx85.github.io/ubuntu_demo/%22,%22https://UniMtx85.github.io/ubuntu_demo/icons/Suru/Suru/scalable/places/start-here-symbolic.svg%22]
 window.addEventListener("load",()=>{
     if(window.location.search!=""){
         __hide_location_confirm=1;
